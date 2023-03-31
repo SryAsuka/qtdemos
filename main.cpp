@@ -1,7 +1,7 @@
 //author : Linxinhang
 //date : 2023.3.15
 //project : GotoCell is designed by Qt Designer
-//version 0.1.0
+//version 0.1.1
 
 #include "dialog.h"
 
